@@ -61,27 +61,29 @@ The executive committee is elected by all nine members without objection.
 #### 5. Registration of Members
 Sam explains the different types of memberships according to the articles of the association and their related fees. He stresses that the membership fees are exlusively used for the materials, tools and labspace rent. 
 
+The following members were registered with their respective membership type:
+  * (Name) , (email), (membership type)
+  * Sam Sulaimanov, sam.sulaimanov@epfl.ch, Committee
+  * Raffael Tschui, raffael.tschui@epfl.ch, Committee
+  * Quentin Cabrol, quentin.cabrol@gmail.com, Committee
+  * Marion Curdy, marion.curdy@epfl.ch, Committee
+  * Pamela Canjura, pamela.canjura@epfl.ch, Resident
+  * Ana Roldan, ana.roldan@epfl.ch, Resident
+  * Beat Geissmann, beat.geissmann@epfl.ch, Resident
+  * Michael Claude, michael.claude@alumni.epfl.ch, Resident
+  * Loic Waegeli, loic.waegeli@epfl.ch, Resident
 
-(Name) , (email), (membership type)
-Sam Sulaimanov, sam.sulaimanov@epfl.ch, Committee
-Raffael Tschui, raffael.tschui@epfl.ch, Committee
-Quentin Cabrol, quentin.cabrol@gmail.com, Committee
-Marion Curdy, marion.curdy@epfl.ch, Committee
-Pamela Canjura, pamela.canjura@epfl.ch, Resident
-Ana Roldan, ana.roldan@epfl.ch, Resident
-Beat Geissmann, beat.geissmann@epfl.ch, Resident
-Michael Claude, michael.claude@alumni.epfl.ch, Resident
-Loic Waegeli, loic.waegeli@epfl.ch, Resident
-
-#### 6. Diverse
+#### 6. Various
 Michael asks if it is possible to get an access card to the lab. Sam replies that we already have 4 within our members that can be shared. Raffael adds that for truly unlimited access to the labspace at hackuarium, one must apply at hackuarium directly for a membership and access card, which costs CHF 20.- per month. 
 
 #### Closing
 The General Assembly is closed at 19:00.
 
+___
+
 
 Renens, September 9th, 2015
 
-___
+
 
 
